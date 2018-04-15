@@ -6,3 +6,5 @@ once more string
 
 new string master
 new branch fork1
+
+new changes
