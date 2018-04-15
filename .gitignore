@@ -1,4 +1,5 @@
 # folder logs
 logs/
+.idea/
 # Ignore all txt-files in docs
 docs/*.txt
